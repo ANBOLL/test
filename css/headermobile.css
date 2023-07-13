@@ -1,0 +1,21 @@
+@media (max-width: 800px){
+/*-------------start header---------------*/
+header{
+    display: flex;
+    max-width: 800px;
+    flex-direction: column;
+    padding-bottom:  20px;
+}
+.logotype{
+    display: flex;
+    width: auto;
+    margin: 40px 0px 0px 0px;
+    justify-content: center;
+    gap: 10px
+}
+.navigation {
+    margin: 20px 0px 0px 0px;
+    justify-content: center;
+}
+/*-------------end header---------------*/
+}
