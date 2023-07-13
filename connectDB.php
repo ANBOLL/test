@@ -4,6 +4,7 @@
     $dbuser = 'root';
     $dbpassword = 'root';
     $ser = "privet";
+    $sddder = "privet";
     try 
         {
             $dbs = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8;", $dbuser, $dbpassword);
