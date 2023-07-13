@@ -3,6 +3,7 @@
     $dbname = 'news';
     $dbuser = 'root';
     $dbpassword = 'root';
+    $ser = "privet";
     try 
         {
             $dbs = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8;", $dbuser, $dbpassword);
