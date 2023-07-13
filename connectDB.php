@@ -8,7 +8,7 @@
     try 
         {
             $dbs = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8;", $dbuser, $dbpassword);
-            ##echo "Connected to $dbname at $host successfully.";
+            #echo "Connected to $dbname at $host successfully.";
         } 
     catch (PDOException $pe) 
         {
