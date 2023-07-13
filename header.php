@@ -1,4 +1,5 @@
 <header>
+    
         <div class="logotype">
             <img src="img/logo 1.svg" alt="logo" class="logo_image">
             <p class="text_logo">Галактический<br>вестник</p>
